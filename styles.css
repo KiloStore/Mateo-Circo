@@ -1,0 +1,72 @@
+/* Estilos para el circo */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #FEE3C3;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #FFD700;
+  }
+  
+  header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #FF6347;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  button {
+    background-color: #FF6347;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #FF4500;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #FFD700;
+    padding: 20px 0;
+  }
+  
+  footer p {
+    font-size: 14px;
+    color: #333;
+  }
+  
